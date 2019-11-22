@@ -10,3 +10,6 @@ Resource provider- service that supplies resource instances in accordance with a
 Resource Manager tempplate - JSON file taht defines one or more resources, specifying their resource providers, to be deployded to a resource group
 Declarative syntax - The act of describing your resources by using a tempalte instead of manually creating the resources
 jsonc sallii kommentoinnin
+Azure cli command output 
+jmespath query language for json
+
