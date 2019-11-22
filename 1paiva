@@ -19,5 +19,15 @@ Azure Batch
 Free docker account (docker hub) hub.docker.com
 voi ladata valmiin docker containerin ja käyttää sitä
 
+Kubernetes - paljon slideja jotka skipattiin
+Azure Container REgistry (ACR)
+Managed Docker registry service
+Stores and manages private docker container images
+Tight integration with multiple Azure services
+Terminology
+Registry - a service that stores container images
+Repository - a group of related container images
+
+
 
 
