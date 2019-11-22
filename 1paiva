@@ -3,4 +3,9 @@ Hinnat vaihtelevat myös aluettain - pricing tool hyvä apuväline
 Kurssin asioita voi harjoitella myös: https://accelerate.azure-academy.com/developer/developing-solutions-for-microsoft-azure/
 Templateja on kätevä käyttää, mahdollista myös resurssiryhmätasolla
 Products available by region - voi selata mitä regioona tarjoaa (https://azure.microsoft.com/en-us/global-infrastructure/services/)
-
+Terminology
+Resource - single manageable item available though Azure
+Rerource group - container holding related resources
+Resource provider- service that supplies resource instances in accordance with a predefined contract
+Resource Manager tempplate - JSON file taht defines one or more resources, specifying their resource providers, to be deployded to a resource group
+Declarative syntax - The act of describing your resources by using a tempalte instead of manually creating the resources
