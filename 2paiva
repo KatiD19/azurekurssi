@@ -65,4 +65,12 @@ more later
 
 Creating a web app with azure cli
 
+WebJobs
+built-in feature of azure app service
+doesn't incur additional costa and doesnät require new resources
+runs background tasks and scripts within the same application
+continuous or
+triggered manually or scheduled
+
+
 
