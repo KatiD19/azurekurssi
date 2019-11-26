@@ -1,1 +1,68 @@
 Web Apps
+-Scalable hosting for web applications
+-Advantages
+--near instant dedployment
+--ssl and custom domain names available in some tiers
+--webjos provide backgoround processing
+Key features
+-Multiple languages and frameworks
+-Devops optimization
+-Global scale with high availability
+-connections to saas platforms and on premises data
+-Seucrity and compliance
+-application templates
+-visual sutdio integration
+-api and mobile features
+-serverless code
+
+App Service plans
+App service plans can logically group apps within a subscription:
+- features capacity and tiers are shared among the website instance in the group
+- app service plan in the unit of billing
+
+Authentication and authorization
+- more later in module...
+-built in authentication and authorization support
+-user claims are made available to code
+
+OS and runtime patching
+-os and application stack are managed by azure
+-monthly os patching
+--physical servers
+--guest vm's
+-Stable versions of application runtimes
+-Updating app runtimes
+
+Inbound and outbound IP addresses
+-Each app has a single inbound IP address
+-Inbound IP address can change
+Find outgound IP address (from command line interface)
+
+Azure App Service Hybrid Connections
+-Enable access to resources in other networks
+--any os and any application
+--hosted in other cloud networks, local networks, or even a specific machine
+-Correlates to a single TCP host and port combination
+-Sercice that is available in more that just App Service
+Benefits:
+-doesn't require internet facing endpoint
+-web apps can access on premises systems securely
+-does not require...
+
+Azure Traffic Manager routhing methods
+-priority
+-weighted
+-preformance
+-...
+Azure App Service Local Cache
+-write-but discard cache
+-created asynchronously when site is started
+-automaticaly serves content once the cache is ready
+-faster than reading content from azure storage
+
+App Service environments (ASEs)
+more later
+
+Creating a web app with azure cli
+
+
