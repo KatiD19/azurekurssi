@@ -82,4 +82,14 @@ push notifications
 "about mobile apps in azure app service" sivu microsoftin sivulla
 quickstarts -> windows
 
+Azure API Apps
+-similar functionality as in azure apps
+Authentication 
+-built-in - requires minimal or no code
+-handled in an external module
+--authentication is managed vefore requests get to youor application code
+--module handles:authenticatting users,tokens,sessions,headers
 
+CORS -Cross origin resource sharing
+mechanism for servers to indicate that htey support cross-site requests 
+-servers can specify:allowed http werbs, jne
