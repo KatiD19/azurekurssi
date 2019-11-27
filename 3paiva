@@ -1,1 +1,13 @@
 Azure tables
+
+Kurssilla käytettävän tilin jäljellä olevan summan saa selville https://www.microsoftazurepass.com/
+
+Table storage is read-efficient
+
+Table storage api
+tutki mikä ero PUT ja MERGE (luennoitsijan mukaan molempia käytetään päivittämiseen)
+
+Table services resrouce queries using OData (query time out and pagination)
+
+Cosmos DB uses same API than Azure Tables
+
